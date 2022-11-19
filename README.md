@@ -26,12 +26,16 @@ A compiler is a special program that processes statements written in a particula
 ![step 401](StepsDisplay/step401.png)
 
 * Showing Error
+
 ![step 402](StepsDisplay/step402.png) 
+
 
 # Step 5: Use of CFGs for Parsing
 ![step 5](StepsDisplay/step5.jpg) 
 
 ![step 501](StepsDisplay/step501.png) 
+
 * Output of Step 5
+
 ![step 502](StepsDisplay/step502.png) 
 
